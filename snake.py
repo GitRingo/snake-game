@@ -20,7 +20,7 @@ window_height = 720
 
 
 pygame.init()
-pygame.display.set_caption("Pimmel")
+pygame.display.set_caption("Snake")
 window = pygame.display.set_mode((window_width, window_height))
 
 font = pygame.font.SysFont("Arial", 18)
